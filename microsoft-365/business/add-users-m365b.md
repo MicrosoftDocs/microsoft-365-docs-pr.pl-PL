@@ -35,7 +35,7 @@ W centrum administracyjnym otwórz kartę **Użytkownicy** \> **Dodaj użytkowni
   
 W panelu **Nowy użytkownik** wpisz wymagane informacje. 
   
-Możesz też wprowadzić dodatkowe dane w sekcji **Informacje kontaktowe**, wybrać sposób określania hasła przy użyciu ustawienia **Hasło** i przypisać role w sekcji **Role**.
+Możesz też wprowadzić dodatkowe dane w sekcji **Informacje o kontakcie**, wybrać sposób określania hasła przy użyciu ustawienia **Hasło** i przypisać role w sekcji **Role**.
   
 ![Enter user information in the New user card](media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
   
