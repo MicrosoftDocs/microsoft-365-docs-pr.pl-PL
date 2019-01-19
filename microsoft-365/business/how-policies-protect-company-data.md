@@ -31,7 +31,7 @@ ms.locfileid: "26982267"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Jak zasady w usłudze Microsoft 365 Business chronią dane firmowe
 
-Utworzone zasady są specyficzne dla typu urządzenia i można je zastosować do konkretnych grup użytkowników. To oznacza, że można utworzyć jedną zasadę dotyczącą kadry kierowniczej i inną dotyczącą pozostałych pracowników.
+Utworzone zasady dotyczą konkretnego typu urządzenia i można je zastosować do konkretnych grup użytkowników. To oznacza, że można utworzyć jedną zasadę dotyczącą kadry kierowniczej i inną dotyczącą pozostałych pracowników.
   
 W przypadku urządzeń z systemem Android i iOS możesz dodawać lub edytować zasady aplikacji chroniące aplikacje pakietu Office i pliki służbowe używane przez aplikacje pakietu Office. Urządzenia z systemem Windows 10 możemy kontrolować w nieco większym stopniu, zatem zasady aplikacji mogą obejmować dodatkowe ustawienia takie jak szyfrowanie i ochrona dla lokalizacji w chmurze i sieciowych. Możesz także utworzyć zasady dotyczące urządzeń z systemem Windows 10, które wymuszają ustawienia takie jak ochrona antywirusowa i automatyczne aktualizacje. Zalecane jest pozostanie przy zasadach utworzonych podczas instalacji, ale jeśli zechcesz dostosować swoje zasady lub dodać ich więcej, zapoznaj się z następującymi artykułami:
   
