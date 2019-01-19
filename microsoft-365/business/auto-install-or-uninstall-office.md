@@ -35,7 +35,7 @@ Aby dowiedzieć się, jak to działa w przypadku wcześniej zainstalowanych apli
 
 1. Zaloguj się do [centrum administracyjnego](https://aka.ms/bcsportal), korzystając z poświadczeń administratora globalnego. 
     
-2. Na karcie **urządzenia** wybierz **Zarządzanie wdrażania pakietu Office**.    Jeśli nie widzisz karty **działania urządzenia** w strony **głównej** Centrum admin kliknij przycisk **Dodaj** (+), aby dodać je do domu użytkownika admin.
+2. Na karcie **Urządzenia** wybierz **Zarządzanie wdrażaniem pakietu Office**.    Jeśli nie widzisz karty **działania urządzenia** w strony **głównej** Centrum admin kliknij przycisk **Dodaj** (+), aby dodać je do domu użytkownika admin.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
@@ -45,9 +45,9 @@ Aby dowiedzieć się, jak to działa w przypadku wcześniej zainstalowanych apli
     
     ![In the Manage Office deployment pane, choose either Install Office as soon as possible, or Uninstall Office.](media/00f24a61-1848-40c0-b037-78d726c7d757.png)
   
-5. Wybrać **Następny** \> Przejrzyj ustawienia, a następnie wybierz polecenie **Potwierdź**.
+5. Wybierz **Następny** \> Przejrzyj ustawienia, a następnie wybierz polecenie **Potwierdź**.
     
-32-bitowy pakiet Office zostanie automatycznie zainstalowany lub odinstalowany na urządzeniach należących do użytkowników określonych przez użyte grupy.
+32-bitowy pakiet Office zostanie automatycznie zainstalowany lub odinstalowany na urządzeniach należących do użytkowników określonych przez wskazane grupy.
   
 Aby to sprawdzić, otwórz Menedżera zadań na komputerze wybranym na potrzeby instalacji pakietu Office i znajdź proces Szybka instalacja pakietu Microsoft Office.
   
