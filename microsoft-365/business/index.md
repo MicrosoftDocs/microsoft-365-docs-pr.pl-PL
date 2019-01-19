@@ -112,8 +112,8 @@ ms.locfileid: "26982507"
                                             <div class="cardText">
                                                 <h3>Tryb </h3>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">Konfigurowanie urządzeń przenośnych</a></p>
-                                                <P><a href="https://support.office.com/office-training-center" target="_blank">Każdy mógł zacząć korzystać z pakietu Office</a></p>
-                                                <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Każdy mógł przełączyć się do okna 10</a></p>
+                                                <P><a href="https://support.office.com/office-training-center" target="_blank">Pomóż każdemu zacząć korzystać z pakietu Office</a></p>
+                                                <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Pomóż każdemu zacząć korzystać z Windows 10</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">Szkolenie Windows Intune</a></p>
                                             </div>
                                         </div>
