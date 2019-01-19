@@ -20,7 +20,7 @@ ms.locfileid: "26982507"
 <div id="main" class="v2">
     <div class="container">
         <h1>Zasoby Microsoft 365 Business</h1>
-        <P>Microsoft 365 Business zawiera najnowsze wersje aplikacji systemu Windows i pakietu Office, takich jak Excel i Outlook. Uruchomienie i skorzystać z ochrony danych i zabezpieczeń, która rozciąga się na wszystkie urządzenia firmy.</p>
+        <P>Microsoft 365 Business zawiera najnowsze wersje aplikacji systemu Windows i pakietu Office, takich jak Excel i Outlook. Zacznij już teraz korzystać z ochrony danych i zabezpieczeń, która rozciąga się na wszystkie urządzenia firmy.</p>
         <P></p>
         <ul class="pivots">
             <li>
@@ -74,7 +74,7 @@ ms.locfileid: "26982507"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Przenieś do firmy Microsoft 365</h3>
+                                                <h3>Przenieś do Microsoft 365 Business</h3>
                                                 <P><a href="migrate-to-microsoft-365-business.md" target="_blank">Przenieś z pakietu Office 365 Business Premium</a></p>
                                             </div>
                                         </div>
@@ -93,7 +93,7 @@ ms.locfileid: "26982507"
                                             <div class="cardText">
                                                 <h3>Ochrona danych biznesowych i urządzeń</h3>
                                                 <P><a href="manage.md" target="_blank">Zarządzanie urządzeniami</a></p> <P><a href="app-protection-settings-for-android-and-ios.md" target="_blank">Ochrona urządzeń iPhone i Android</a></p>
-                                                 <P><a href="https://support.office.com/article/top-10-ways-to-secure-office-365-and-microsoft-365-business-plans-from-cyber-threats-de2da300-dbb6-4725-bb12-b85a9d296e75" target="_blank">Top 10 sposobów bezpiecznego Microsoft 365 Business</a></p>
+                                                 <P><a href="https://support.office.com/article/top-10-ways-to-secure-office-365-and-microsoft-365-business-plans-from-cyber-threats-de2da300-dbb6-4725-bb12-b85a9d296e75" target="_blank">10 najlepszych sposobów na bezpieczny Microsoft 365 Business</a></p>
                                                 <P><a href="security-features.md" target="_blank">Dowiedz się więcej o funkcjach zabezpieczeń</a></p>
                                                 </div>
                                         </div>
