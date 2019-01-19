@@ -39,19 +39,19 @@ ms.locfileid: "26983667"
     
 4. W sekcji **Typ zasad** wybierz pozycję **Zarządzanie aplikacjami dla systemu Android** lub **Zarządzanie aplikacjami dla systemu iOS** w zależności od tego, jaki zestaw zasad chcesz utworzyć. 
     
-5. Rozwiń węzeł **Chroń pliki robocze, gdy urządzenia są zagubione lub skradzione** i **zarządzać dostęp użytkowników do plików pakietu Office na urządzeniach przenośnych** \> skonfigurować ustawienia jak. **Zarządzaj dostęp użytkowników do plików pakietu Office na urządzeniach przenośnych** jest domyślnie **wyłączone** , ale zaleca się **ją włączyć** , a następnie zaakceptuj wartości domyślne. Aby uzyskać więcej informacji, zobacz temat [dostępne ustawienia](app-protection-settings-for-android-and-ios.md#bkmk_availablesettings) . 
+5. Rozwiń węzeł **Chroń pliki robocze, gdy urządzenia są zagubione lub skradzione** i **zarządzać dostęp użytkowników do plików pakietu Office na urządzeniach przenośnych** \> skonfigurować ustawienia jak. **Zarządzaj dostępem użytkowników do plików pakietu Office na urządzeniach przenośnych** jest domyślnie **wyłączone** , ale zaleca się **je włączyć**, a następnie zaakceptuj wartości domyślne. Aby uzyskać więcej informacji, zobacz temat [dostępne ustawienia](app-protection-settings-for-android-and-ios.md#bkmk_availablesettings) . 
     
     Aby zresetować ustawienia do wartości domyślnych, w dowolnej chwili możesz użyć linku **Resetuj ustawienia domyślne**. 
     
     ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
-6. Następnie zdecydować **kto otrzyma te ustawienia?** Jeśli nie chcesz używać domyślnej grupy zabezpieczeń **Wszyscy użytkownicy** , **Zmień**, wybierz polecenie grupy zabezpieczeń, którzy otrzymają te ustawienia \> **Wybierz**.
+6. Następnie zdecyduj **kto otrzyma te ustawienia?** Jeśli nie chcesz używać domyślnej grupy zabezpieczeń **Wszyscy użytkownicy**, wybierz **Zmień**, a następnie wybierz grupę zabezpieczeń, która otrzyma te ustawienia \> **Wybierz**.
     
 7. Na koniec wybierz przycisk **Gotowe**, aby zapisać zasady i zastosować je na urządzeniach. 
     
 ## <a name="edit-an-app-management-policy"></a>Edytowanie zasad zarządzania aplikacjami
 
-1. Na karcie **zasady** wybierz polecenie **Edytuj zasady**.
+1. Na karcie **Zasady** wybierz polecenie **Edytuj zasady**.
     
 2. W okienku **Edytowanie zasad** wybierz zasadę, którą chcesz zmienić. 
     
@@ -63,7 +63,7 @@ ms.locfileid: "26983667"
 
 1. Na karcie **Zasady** wybierz pozycję **Usuń zasady**.
     
-2. **Usuwanie zasady** w okienku wybierz zasady do usunięcia \> **Zaznacz**, a następnie **Potwierdź** usunąć zasadę lub zasady wybrano. 
+2. W okienku **Usuwanie zasady** wybierz zasady do usunięcia \> **Zaznacz**, a następnie **Potwierdź** usunięcie wybranej zasady lub zasad. 
     
 ## <a name="available-settings"></a>Dostępne ustawienia
 
@@ -93,7 +93,7 @@ Na potrzeby zarządzania dostępem użytkowników do plików służbowych w paki
 |Resetuj numer PIN w przypadku wielokrotnego niepowodzenia logowania  <br/> |Aby uniemożliwić nieautoryzowanym użytkownikom odgadywanie kodu PIN, ten kod jest resetowany po określonej liczbie nieudanych prób jego podania.  <br/> |
 |Wymagaj ponownego logowania użytkowników po czasie bezczynności aplikacji pakietu Office  <br/> |To ustawienie określa, jak długo użytkownik może nie korzystać z aplikacji, zanim będzie wymagane ponowne zalogowanie się.  <br/> |
 |Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta  <br/> |Sprytni użytkownicy mogą mieć urządzenie z usuniętymi natywnymi ograniczeniami producenta. Umożliwia to użytkownikowi modyfikowanie systemu operacyjnego, co może narazić urządzenie na ataki złośliwym oprogramowaniem. Te urządzenia zostaną zablokowane, jeśli to ustawienie będzie **Włączone**.  <br/> |
-|Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> |Zezwalamy na to domyślnie, ale jeżeli to ustawienie jest **włączone**, użytkownik może skopiować informacje w pliku roboczego do pliku osobistego. Jeśli to ustawienie jest **wyłączone**, użytkownik będzie mógł skopiować informacje z konta służbowego do osobistych aplikacji lub konto osobiste.<br/> |
+|Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> |Zezwalamy na to domyślnie, ale jeżeli to ustawienie jest **włączone**, użytkownik może skopiować informacje w pliku roboczego do pliku osobistego. Jeśli to ustawienie jest **wyłączone**, użytkownik nie będzie mógł skopiować informacji z konta służbowego do osobistych aplikacji lub konta osobistego.<br/> |
    
 
   
